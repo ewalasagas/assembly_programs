@@ -25,4 +25,4 @@ See "main.asm" to add to file
   --> "Export Template"
   --> Change "Template name" to MASM
   --> Leave defaults and hit finish
-6. Add any of the .asm programs and run
+--> Add any of the .asm programs and run
